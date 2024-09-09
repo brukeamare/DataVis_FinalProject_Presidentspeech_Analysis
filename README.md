@@ -1,5 +1,8 @@
 
 # README for President-NLP-Entities-Relations Notebook
+# website:
+
+https://brukeamare.github.io/DataVis_FinalProject_Presidentspeech_Analysis/
 
 ## Data
 got it from https://data.millercenter.org/ , down loaded as a json
